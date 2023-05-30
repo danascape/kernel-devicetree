@@ -13,10 +13,10 @@
 
 /* msm8937-mdss-panels */
 
-#include "panel/dsi-panel-ili9881c-cpt-video.dtsi"
-#include "panel/dsi_panel_st7703_jdf_lianovation_video.dtsi"	
-#include "panel/dsi-panel-ili9881c-hsd-video.dtsi"
-#include "panel/dsi-panel-ili9881p-panda-ykl.dtsi"
+#include "displaypanel/dsi-panel-ili9881c-cpt-video.dtsi"
+#include "displaypanel/dsi_panel_st7703_jdf_lianovation_video.dtsi"	
+#include "displaypanel/dsi-panel-ili9881c-hsd-video.dtsi"
+#include "displaypanel/dsi-panel-ili9881p-panda-ykl.dtsi"
 
 /* msm8937-mtp (took out dsi and mdss stuff) */
 

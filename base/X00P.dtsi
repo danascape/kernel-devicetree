@@ -1,0 +1,8 @@
+#include "msm8937.dtsi"
+#include "audio.dtsi"
+#include "pinctrl.dtsi"
+#include "mtp.dtsi"
+#include "mdss.dtsi"
+#include "camera.dtsi"
+#include "pm8937.dtsi"
+#include "pmi8940.dtsi"
