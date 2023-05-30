@@ -44,6 +44,7 @@
 		};
 
 		pmi8940_charger: qcom,qpnp-smbcharger {
+			qcom,charge-unknown-battery;
 			qcom,float-voltage-mv = <4350>;
 			/delete-property/ qcom,autoadjust-vfloat;
 			qcom,usbin-vadc = <&pmi8940_vadc>;
